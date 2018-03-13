@@ -2,7 +2,7 @@
 SSD
 
 
-Class ID:  
+Class ID: Corphish 
 
 SRS ID: CST116SRS06  
 
@@ -10,9 +10,9 @@ Unresolved Issues:
 
 Notes:  
 
-Partner Left:  
+Partner Left: Hussain
 
-Partner Right:  
+Partner Right: Omer   
 
 ---
 
